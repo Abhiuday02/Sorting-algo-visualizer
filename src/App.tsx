@@ -345,7 +345,7 @@ export default function App() {
               {darkMode ? <Sun size={18} /> : <Moon size={18} />}
             </button>
             <a
-              href="https://github.com"
+              href="https://github.com/Abhiuday02"
               target="_blank"
               rel="noopener noreferrer"
               className="icon-btn"
